@@ -16,7 +16,6 @@ Try it out : https://car-price-prediction-q0fz.onrender.com/
 - Installation
 - Usage
 - Results
-- Future Work
 - Demo
 
 <hr>
@@ -81,12 +80,17 @@ Here app.py is name of python file.
 
 <hr>
 
-## 8. Results
+## 7. Results
+- The **XGBRegressor** achieved the highest performance as compared to other algorithms.
 #### Model Performance:
+- **R2 Score**:0.82
+- **Mean Absolute Error**:246.31
+- **Mean Squared Error**:151515.73
+- **Root Mean Squared Error**:389.25
 
+<hr>
 
-
-## Demo
+## 8. Demo
 
 <!--
 - Watch the full project demo:
